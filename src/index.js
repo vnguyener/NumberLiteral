@@ -26,4 +26,4 @@ var NumberLiteralMatch = function() {
 	}
 };
 
-module.exports = NumberLiteralMatch;
+module.exports = NumberLiteralMatch();
